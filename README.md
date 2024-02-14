@@ -7,7 +7,7 @@ Hi ! I'm Clara Hugot 🙋
 </div>
 
 <div id="badges" align="center">
-  <a href="[www.linkedin.com/in/clara-h-1a0a9b174](https://www.linkedin.com/in/clara-h-1a0a9b174/)">
+  <a href="https://www.linkedin.com/in/clara-h-1a0a9b174/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
