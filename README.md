@@ -14,7 +14,7 @@ Hi ! I'm Clara Hugot 🙋
 
 ### About Me :
 
-I'm a junior developper from France 🇫🇷
+I'm a junior developper from France who study in 42 Le Havre 🇫🇷
 
 - 🔭 I’m currently working on projects in C++
 - 🌱 I’m currently learning C, C++
